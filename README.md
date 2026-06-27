@@ -25,3 +25,9 @@ Each password is printed with its strength label and estimated entropy.
 
 `strength.py` estimates password entropy (in bits) and labels a
 password as weak, fair, strong, or excellent.
+
+## Running the tests
+
+```bash
+python -m unittest test_passgen.py
+```

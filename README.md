@@ -1,6 +1,7 @@
 # py-passgen-cli
 
-A tiny command-line password generator written in Python.
+A tiny command-line password generator written in Python. Zero dependencies,
+standard library only.
 
 ## Usage
 
@@ -31,3 +32,7 @@ password as weak, fair, strong, or excellent.
 ```bash
 python -m unittest test_passgen.py
 ```
+
+## License
+
+MIT
